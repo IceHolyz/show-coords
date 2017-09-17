@@ -1,2 +1,3 @@
-# show-coords
-Shows your coords and heading for code
+## Super simple position script that also shows heading
+
+
