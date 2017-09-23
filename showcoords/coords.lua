@@ -69,7 +69,7 @@ Citizen.CreateThread(function()
 		SetTextOutline()
 		SetTextEntry("STRING")
 		AddTextComponentString("~r~Player Health: ~s~"..health)
-		DrawText(0.0, 0.65)
+		DrawText(0.40, 0.85)
 		veheng = GetVehicleEngineHealth(GetVehiclePedIsUsing(PlayerPedId()))
 		vehbody = GetVehicleBodyHealth(GetVehiclePedIsUsing(PlayerPedId()))
 		if IsPedInAnyVehicle(PlayerPedId(), 1) then
