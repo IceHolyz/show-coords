@@ -5,3 +5,4 @@ description 'Coord Shower'
 client_scripts {
 	"coords.lua"
 }
+
